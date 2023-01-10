@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:Acestream Champions League 1
+acestream://c319799bdb315f2864f13cb907a7c3bc6a3f0ecb
+
+#EXTINF:Acestream Champions League 2
+acestream://c67990a57e46e0bb68b87fa8229880bd6cf8cf31
+
+#EXTINF:Acestream Champions League 3
+acestream://d4ca72b84ca6e80d2eea986fd128e4d51d43c4ef
+
+#EXTINF:Acestream Champions League 4
+acestream://30dd702ed0a799451996c8ae9f5c11c214299715
+
+#EXTINF:Acestream Champions League 5
+acestream://51948533022315a3512b3472d7f2705d7f5df294
+
+#EXTINF:Acestream Champions League 6
+acestream://f48bbc8b00fdd76b0c62ecc599955bfaf9daa7b8
