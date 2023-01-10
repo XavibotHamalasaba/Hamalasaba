@@ -1,69 +1,69 @@
 #EXTM3U
 
-#EXTINF:Acestream Champions League 1
+#EXTINF: Acestream Champions League 1
 acestream://c319799bdb315f2864f13cb907a7c3bc6a3f0ecb
 
-#EXTINF:Acestream Champions League 2
+#EXTINF: Acestream Champions League 2
 acestream://c67990a57e46e0bb68b87fa8229880bd6cf8cf31
 
-#EXTINF:Acestream Champions League 3
+#EXTINF: Acestream Champions League 3
 acestream://d4ca72b84ca6e80d2eea986fd128e4d51d43c4ef
 
-#EXTINF:Acestream Champions League 4
+#EXTINF: Acestream Champions League 4
 acestream://30dd702ed0a799451996c8ae9f5c11c214299715
 
-#EXTINF:Acestream Champions League 5
+#EXTINF: Acestream Champions League 5
 acestream://51948533022315a3512b3472d7f2705d7f5df294
 
-#EXTINF:Acestream Champions League 6
+#EXTINF: Acestream Champions League 6
 acestream://f48bbc8b00fdd76b0c62ecc599955bfaf9daa7b8
 
-#EXTINF:Acestream Futbol 1
+#EXTINF: Acestream Futbol 1
 acestream://125f0f3f8ae85c94749bcc9659bcc404d3dd84b1
 
-#EXTINF:Acestream Futbol 2
+#EXTINF: Acestream Futbol 2
 acestream://5314602e4747ec050f19408c4c977effb37cc8bd
 
-#EXTINF:Acestream Futbol 3
+#EXTINF: Acestream Futbol 3
 acestream://c6b30c39153e8ccf3c950440ccc6bfa4721ca0bc
 
-#EXTINF:Acestream Futbol 4
+#EXTINF: Acestream Futbol 4
 acestream://fdde9dc50f71283fea252ff88d7e2f7c3170208a
 
-#EXTINF:Acestream Futbol 5
+#EXTINF: Acestream Futbol 5
 acestream://3f9d427f7f0150491a2008c2dad17180983d8250
 
-#EXTINF:Acestream Futbol 6
+#EXTINF: Acestream Futbol 6
 acestream://7cb984441e0eb2de9ab0ae7fec0cf5108e439b99
 
-#EXTINF:Acestream Movistar Plus 1
+#EXTINF: Acestream Movistar Plus 1
 acestream://565320a5b4a952d289917f1ecf541a793ddd3342
 
-#EXTINF:Acestream Movistar Plus 2
+#EXTINF: Acestream Movistar Plus 2
 acestream://30dd702ed0a799451996c8ae9f5c11c214299715
 
-#EXTINF:Acestream Movistar Plus 3
+#EXTINF: Acestream Movistar Plus 3
 acestream://51948533022315a3512b3472d7f2705d7f5df294
 
-#EXTINF:Acestream Movistar Plus 4
+#EXTINF: Acestream Movistar Plus 4
 acestream://f189b874d73ef857f40833f8629ce6a68166a8f2
 
-#EXTINF:Acestream Movistar Plus 5
+#EXTINF: Acestream Movistar Plus 5
 acestream://2caa234795e0ac11f4d1bb9f309844ec1eddbe90
 
-#EXTINF:Acestream Movistar Plus 6
+#EXTINF: Acestream Movistar Plus 6
 acestream://f48bbc8b00fdd76b0c62ecc599955bfaf9daa7b8
 
-#EXTINF:Acestream Movistar Plus 7
+#EXTINF: Acestream Movistar Plus 7
 acestream://0ef3e3b378876b26318e1ef091f7bfecd0ba42ad
 
-#EXTINF:Acestream Movistar Plus 6
+#EXTINF: Acestream Movistar Plus 6
 acestream://bd6dad159641368808a94498a6bc44a5dc93aeae
 
-#EXTINF:Acestream Movistar Plus 6
+#EXTINF: Acestream Movistar Plus 6
 acestream://9ea19943019b4e94a637a6df7b00f12ef8a0eecf
 
-#EXTINF:Acestream Movistar Plus 6
+#EXTINF: Acestream Movistar Plus 6
 acestream://06c19e919a845ab49bc79b759a672138497136c1
 
 #EXTINF: DAZNOpción 1
@@ -84,50 +84,50 @@ acestream://6891e9114db6ab01a3f0ceb55cc214cbfdd95702
 #EXTINF: DAZNOpción 6
 acestream://c6929eccb66dc94e378fe6238e92f4277bb816f1
 
-#EXTINF:Acestream LaLiga 1
+#EXTINF: Acestream LaLiga 1
 acestream://f7fe8c905c6af7c4bad5c9c3865217e1bc9d43e6
 
-#EXTINF:Acestream LaLiga 2
+#EXTINF: Acestream LaLiga 2
 acestream://e2b90d70fc7c3551841d73559dbf8ef95e984e65
 
-#EXTINF:Acestream LaLiga 3
+#EXTINF: Acestream LaLiga 3
 acestream://bd6dad159641368808a94498a6bc44a5dc93aeae
 
-#EXTINF:Acestream LaLiga 4
+#EXTINF: Acestream LaLiga 4
 acestream://30dd702ed0a799451996c8ae9f5c11c214299715
 
-#EXTINF:Acestream LaLiga 5
+#EXTINF: Acestream LaLiga 5
 acestream://9ea19943019b4e94a637a6df7b00f12ef8a0eecf
 
-#EXTINF:Acestream LaLiga 6
+#EXTINF: Acestream LaLiga 6
 acestream://61c5339da436c8c9192b265f1f609c8c7ca37aef
 
-#EXTINF:Acestream LaLiga 7
+#EXTINF: Acestream LaLiga 7
 acestream://fe840dbd9c1a89b7ff29a96148e55f849e49019a
 
-#EXTINF:Acestream LaLiga 8
+#EXTINF: Acestream LaLiga 8
 acestream://b73ae3f4471075205f41b24802671d683ed2204d
 
-#EXTINF:Acestream F1 1
+#EXTINF: Acestream F1 1
 acestream://66604bbfffc9c2b2623b9bbdb6c0c741d17a89ba
 
-#EXTINF:Acestream F1 2
+#EXTINF: Acestream F1 2
 acestream://a31507b35686036818cdb0e1daa83447abc7f802
 
-#EXTINF:Acestream F1 3
+#EXTINF: Acestream F1 3
 acestream://609c039ea7e1ee4c0d78d66d38bf7fb62271559a
 
-#EXTINF:Acestream F1 4
+#EXTINF: Acestream F1 4
 acestream://22689d43c49804d2d9e9f0c7160d04b7d8787d42
 
-#EXTINF:Acestream F1 5
+#EXTINF: Acestream F1 5
 acestream://958b9966f5bb4e2f3f59a70567171eecbb9cd173
 
-#EXTINF:Acestream F1 6
+#EXTINF: Acestream F1 6
 acestream://55d5eb4994ec9f323dafdfc2614de55f6d5186e9
 
-#EXTINF:Acestream F1 7
+#EXTINF: Acestream F1 7
 acestream://ade092eb75e5f69dec53aaaccd1bd7435d6511f9
 
-#EXTINF:Acestream F1 8
+#EXTINF: Acestream F1 8
 acestream://0cd6cde8f327e4dc2f1bcc25c78e281d8e6826d8
