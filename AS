@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Acestream Champions League 1
-acestream://c319799bdb315f2864f13cb907a7c3bc6a3f0ecb
+c319799bdb315f2864f13cb907a7c3bc6a3f0ecb
 
 #EXTINF:-1,Acestream Champions League 2
 acestream://c67990a57e46e0bb68b87fa8229880bd6cf8cf31
