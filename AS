@@ -12,6 +12,12 @@ acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 #EXTINF:-1,DAZN 2 720
 acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 
+#EXTINF:-1,SUPERCOPA
+acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
+
+#EXTINF:-1,SUPERCOPA 2
+acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
+
 #EXTINF:-1,Acestream Champions League 1
 c319799bdb315f2864f13cb907a7c3bc6a3f0ecb
 
