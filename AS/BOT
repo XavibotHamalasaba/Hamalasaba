@@ -147,6 +147,12 @@ acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1,DAZN 4 1080p 1
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 
+#EXTINF:-1,DAZN F1 1080p 1
+acestream://149a38e333de920753f1388c43247283bdb05f5b
+
+#EXTINF:-1,SkySport F1 HD 1
+acestream://149a38e333de920753f1388c43247283bdb05f5b
+
 #EXTINF:-1,GOL TV 1080p 1
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 
@@ -157,6 +163,9 @@ acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
 #EXTINF:-1,tdp 1080p (RTVE Play) 1
+acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
+
+#EXTINF:-1,LA 1 1080p 1
 acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
 
 #EXTINF:-1,M. Ellas 1
@@ -181,4 +190,16 @@ acestream://c0f38f2a4b891db823edb45e64f1191655526e5e
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 
 #EXTINF:-1,SETANTA Sports 1 2
+acestream://75594806667040420dee6ed57926101d702566e8
+
+#EXTINF:-1,ESPN 2 720p 1
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+
+#EXTINF:-1,ESPN 2 720p 2
+acestream://75594806667040420dee6ed57926101d702566e8
+
+#EXTINF:-1,Eleven Sports 1 HD [PL] 1
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+
+#EXTINF:-1,Eleven Sports 1 HD [PL] 2
 acestream://75594806667040420dee6ed57926101d702566e8
