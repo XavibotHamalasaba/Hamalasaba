@@ -321,6 +321,18 @@ acestream://664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1,FOX Sports 1 HD [US] 1 
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 
+#EXTINF:-1,ESPN [CO] 1 
+acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+
+#EXTINF:-1,ESPN 2 [CO] 1 
+acestream://e40b29774fdfd953751a71f5695f647726623b9d
+
+#EXTINF:-1,ESPN 3 [CO] 1 
+acestream://b97f5975dbd067655432512d4693b417bc85a714
+
+#EXTINF:-1,ESPN EXTRA [CO] 1 
+acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+
 #EXTINF:-1,Eleven Sports 1 [PT] 1 
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 
