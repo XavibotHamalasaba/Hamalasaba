@@ -291,6 +291,9 @@ acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115
 #EXTINF:-1,BBC ONE [UK] 1 
 acestream://243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
 
+#EXTINF:-1,Sky Sports F1[UK] 1 
+acestream://55a762c1e48db88542771a476c65ffc309bd7262
+
 #EXTINF:-1,Sky Sports[UK] 1 
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 
@@ -313,7 +316,7 @@ acestream://5f966c123759de46dff29c379266b7a403452033
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 
 #EXTINF:-1,F1 TV 1080p 1 
-acestream://dcd99613c45c67b921243b1b52726514edfd8c67
+acestream://63add41b197c2492f2ec7156cdedb427e999370b
 
 #EXTINF:-1,ESPN 2 720p [US] 1 
 acestream://664eb5fe460b96941aed633959a845b185cd8394
