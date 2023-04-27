@@ -9,6 +9,33 @@ acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1,DAZN LaLiga 1080p MultiAudio 3 
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 
+#EXTINF:-1,DAZN 1 1080p 1 
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+
+#EXTINF:-1,DAZN 1 1080p 2 
+acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
+
+#EXTINF:-1,DAZN 2 1080p 1 
+acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
+
+#EXTINF:-1,DAZN 2 1080p 2 
+acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
+
+#EXTINF:-1,DAZN 3 1080p 1 
+acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+
+#EXTINF:-1,DAZN 4 1080p 1 
+acestream://149a38e333de920753f1388c43247283bdb05f5b
+
+#EXTINF:-1,DAZN F1 1080p 1 
+acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
+
+#EXTINF:-1,DAZN F1 1080p 2 
+acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+
+#EXTINF:-1,DAZN F1 1080p 3 
+acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
+
 #EXTINF:-1,LaLiga TV Bar 1080p 1 
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 
@@ -91,6 +118,9 @@ acestream://b779e6056975e3682a804d47cbd5cc806217f64d
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
 #EXTINF:-1,M.L. Campeones 1080p MultiAudio 2 
+acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
+
+#EXTINF:-1,M.L. Campeones 1080p MultiAudio 3 
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
 #EXTINF:-1,M.L. Campeones 2 1080p 1 
@@ -135,33 +165,6 @@ acestream://95d9967309d74d3dbd87c66cf374666bb9da9f07
 #EXTINF:-1,M.SuperCopa 1080p MultiAudio 4 
 acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
 
-#EXTINF:-1,DAZN 1 1080p 1 
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-
-#EXTINF:-1,DAZN 1 1080p 2 
-acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
-
-#EXTINF:-1,DAZN 2 1080p 1 
-acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
-
-#EXTINF:-1,DAZN 2 1080p 2 
-acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
-
-#EXTINF:-1,DAZN 3 1080p 1 
-acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-
-#EXTINF:-1,DAZN 4 1080p 1 
-acestream://149a38e333de920753f1388c43247283bdb05f5b
-
-#EXTINF:-1,DAZN F1 1080p 1 
-acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
-
-#EXTINF:-1,DAZN F1 1080p 2 
-acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
-
-#EXTINF:-1,DAZN F1 1080p 3 
-acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
-
 #EXTINF:-1,GOL TV 1080p 1 
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 
@@ -186,14 +189,26 @@ acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1,MATCH! Football HD [RU] 2 
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 
-#EXTINF:-1,MATCH! Football HD [RU] 3 
-acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5
-
-#EXTINF:-1,MATCH! Football HD [RU] 4 
-acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
-
 #EXTINF:-1,MATCH! Football 2 HD[RU] 1 
 acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+
+#EXTINF:-1,MATCH! Football 3 HD[RU] 1 
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+
+#EXTINF:-1,MATCH! Prime HD [RU] 1 
+acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5
+
+#EXTINF:-1,MATCH! Prime HD [RU] 2 
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+
+#EXTINF:-1,Матч! Боец [RU] 1 
+acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
+
+#EXTINF:-1,Матч! Арена HD [RU] 1 
+acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+
+#EXTINF:-1,Матч! Наш Спорт HD [RU] 1 
+acestream://7b4362cb04a3df40bdfa3800af0cc78309a60771
 
 #EXTINF:-1,PIMPLE TV[RU] 1 
 acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
@@ -205,7 +220,7 @@ acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
 acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
 
 #EXTINF:-1,PIMPLE TV[RU] 4 
-acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
 
 #EXTINF:-1,CTAPT [RU] 1 
 acestream://4b129146077c1e357e4ab341448b9fb629f939dc
@@ -222,6 +237,21 @@ acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
 #EXTINF:-1,Футбол HD [RU] 1 
 acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
 
+#EXTINF:-1,FOX Life HD [RU] 1 
+acestream://36bd5c1fdf09e5e92aa68cc642ae2d4db6694526
+
+#EXTINF:-1,FOX HD [RU] 1 
+acestream://df94afd23701839b3fdcdf669c73f2e3d656126e
+
+#EXTINF:-1,EuroSport 1 HD [RU] 1 
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+
+#EXTINF:-1,EuroSport 2 HD [RU] 1 
+acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
+
+#EXTINF:-1,Qazsport HD [KZ] 1 
+acestream://c9014901637b29cad1c39519f0952453c20ce27b
+
 #EXTINF:-1,SETANTA Sports 1 [UA] 1 
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 
@@ -230,6 +260,9 @@ acestream://75594806667040420dee6ed57926101d702566e8
 
 #EXTINF:-1,SETANTA Sports 1 [UA] 3 
 acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
+
+#EXTINF:-1,SETANTA Sports 2 [UA] 1 
+acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 
 #EXTINF:-1,SETANTA Sports +HD[UA] 1 
 acestream://0528a1cecd81efd3ec72f49bd32fa847bc924abf
@@ -249,6 +282,9 @@ acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1,Eleven Sports 3 HD [PL] 1 
 acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 
+#EXTINF:-1,Eleven Sports 4 HD [PL] 1 
+acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
+
 #EXTINF:-1,TVP 1 Poland HD 1 
 acestream://d31d828052a432246e59e7d0d640bd55a64f1859
 
@@ -256,16 +292,37 @@ acestream://d31d828052a432246e59e7d0d640bd55a64f1859
 acestream://d31d828052a432246e59e7d0d640bd55a64f1859
 
 #EXTINF:-1,Sport Klub HD[PL] 1 
-acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
+
+#EXTINF:-1,Polsat Sport Premium 1[PL] 1 
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
+
+#EXTINF:-1,Polsat Sport Premium 2[PL] 1 
+acestream://3147c586346aee00c005d1caa55204d38678c95f
 
 #EXTINF:-1,Polsat Sport[PL] 1 
 acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 
-#EXTINF:-1,Canal+ Sports[PL] 1 
+#EXTINF:-1,Polsat Sport Extra[PL] 1 
+acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+
+#EXTINF:-1,Canal+ Sports [PL] 1 
 acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+
+#EXTINF:-1,Canal+ Sports 2 [PL] 1 
+acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3
+
+#EXTINF:-1,Canal+ Sports 3 [PL] 1 
+acestream://3e87464ed8c42ed14464461ea08860a3040a8944
 
 #EXTINF:-1,Canal+ Sports 5 [PL] 1 
 acestream://5f595b1bbade5e7c915d99f90645f4c30d4ba540
+
+#EXTINF:-1,FOX Comedy [PL] 1 
+acestream://8fb7f8107213a9020f298c8d0068ea86d0713d01
+
+#EXTINF:-1,FOX HD [PL] 1 
+acestream://ade7437d52002e864f851c4de016923dcd6d2548
 
 #EXTINF:-1,DAZN 1 Bar [DE] 1 
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
@@ -288,11 +345,50 @@ acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 #EXTINF:-1,Servus TV HD [DE] 1 
 acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115
 
+#EXTINF:-1,Magenta Sport 1 HD [DE] 1 
+acestream://501141c649a2b78c4965cbf3257224181cc55072
+
+#EXTINF:-1,Magenta Sport 2 HD [DE] 1 
+acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
+
+#EXTINF:-1,Magenta Sport 3 HD [DE] 1 
+acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+
+#EXTINF:-1,Magenta Sport 4 HD [DE] 1 
+acestream://1fb794b1503c5955b75ea0106ee6360b80d78849
+
+#EXTINF:-1,Magenta Sport 5 HD [DE] 1 
+acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730
+
+#EXTINF:-1,Magenta Sport 6 HD [DE] 1 
+acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
+
+#EXTINF:-1,Magenta Sport 7 HD [DE] 1 
+acestream://ac839cda9709255c21a98af455731f037e77a9e4
+
+#EXTINF:-1,Magenta Sport 8 HD [DE] 1 
+acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
+
+#EXTINF:-1,Magenta Sport 9 HD [DE] 1 
+acestream://86495fe134ff065d5217497babe6be33f81d37d1
+
+#EXTINF:-1,Magenta Sport 10 HD [DE] 1 
+acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
+
+#EXTINF:-1,Magenta Sport 11 HD [DE] 1 
+acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
+
 #EXTINF:-1,BBC ONE [UK] 1 
 acestream://243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
 
 #EXTINF:-1,Sky Sports F1[UK] 1 
 acestream://55a762c1e48db88542771a476c65ffc309bd7262
+
+#EXTINF:-1,Sky Sports Main Event [UK] 1 
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1,Sky Sports Premier League[UK] 1 
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
 #EXTINF:-1,Sky Sports[UK] 1 
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
@@ -302,6 +398,9 @@ acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
 #EXTINF:-1,Sky Sports Arena[UK] 1 
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+
+#EXTINF:-1,Sky Sport Cricket [UK] 1 
+acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 
 #EXTINF:-1,BT Sport 1 [UK] 1 
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
@@ -318,11 +417,17 @@ acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1,F1 TV 1080p 1 
 acestream://63add41b197c2492f2ec7156cdedb427e999370b
 
-#EXTINF:-1,ESPN 2 720p [US] 1 
+#EXTINF:-1,ESPN 2 [US] 1 
 acestream://664eb5fe460b96941aed633959a845b185cd8394
 
 #EXTINF:-1,FOX Sports 1 HD [US] 1 
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
+
+#EXTINF:-1,FOX Sports 2 HD [US] 1 
+acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+
+#EXTINF:-1,beIN Sports Xtra Ñ 1 
+acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 
 #EXTINF:-1,ESPN [CO] 1 
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
@@ -363,20 +468,44 @@ acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
 #EXTINF:-1,Sport Tv 3 [PT] 1 
 acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 
-#EXTINF:-1,BeIN Sports 1 [FR] 1 
+#EXTINF:-1,beIN Sports 1 [FR] 1 
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
-#EXTINF:-1,BeIN Sports 2 [FR] 1 
+#EXTINF:-1,beIN Sports 2 [FR] 1 
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 
-#EXTINF:-1,BeIN Sports 3 [FR] 1 
+#EXTINF:-1,beIN Sports 3 [FR] 1 
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
 #EXTINF:-1,Digi Sport 1[RM] 1 
 acestream://51cee9d0b29dbd9104e9a3971fd2569419eab159
 
+#EXTINF:-1,Digi Sport 2[RM] 1 
+acestream://b7db2c0404f90f99b01a8875713c047cd07595f7
+
 #EXTINF:-1,Digi Sport 3[RM] 1 
 acestream://b9dc6fdeaca5a5f4275db80d68536e023ce4ea06
 
-#EXTINF:-1,beIN Sport 1 HD [TR] 1 
+#EXTINF:-1,Ziggo Sport Select[NL] 1 
+acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+
+#EXTINF:-1,Ziggo Sport Voetbal[NL] 1 
+acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
+
+#EXTINF:-1,Diema Sport 2[BG] 1 
+acestream://15cc58b8ca2928ad68bc285df2a37f653eebd35a
+
+#EXTINF:-1,beIN Sports HABER [TR] 1 
+acestream://47c1b3a68d03bd190fed521d144ad08fa0f195f3
+
+#EXTINF:-1,beIN Sports 1 HD[TR] 1 
 acestream://118416583faa3fb4f03800173429b6b844b43a52
+
+#EXTINF:-1,beIN Sports 2 HD[TR] 1 
+acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05
+
+#EXTINF:-1,beIN Sports 3 HD[TR] 1 
+acestream://ed81c333815247536edfcdb2755147e8c4144d62
+
+#EXTINF:-1,beIN Sports 4 HD[TR] 1 
+acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
