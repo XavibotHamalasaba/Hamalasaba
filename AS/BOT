@@ -405,6 +405,9 @@ acestream://243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
 #EXTINF:-1,Sky Sports F1[UK] 1 
 acestream://31ccc2ce2ca3e968bb37114fe6fae02073937fe8
 
+#EXTINF:-1,Sky Sports F1[UK] 2 
+acestream://1669d062899af5f176cdbbf549d447dd08bdb014
+
 #EXTINF:-1,Sky Sports Main Event [UK] 1 
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
@@ -437,6 +440,60 @@ acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 
 #EXTINF:-1,F1 TV 1080p 1 
 acestream://77cb36936f3341264f010d39a1758f4672e308b0
+
+#EXTINF:-1,F1 TV 1080p 2 
+acestream://22c184381158087c2b522e1aacbc1bca7c67dc74
+
+#EXTINF:-1,Eleven TR Sport [IT] 1 
+acestream://154d111a97b7b18d1f64e9ae697c33c479d01e32
+
+#EXTINF:-1,TeleSud Trapani [IT] 1 
+acestream://8ec948677da521da7bb238c0b1968a899edb797d
+
+#EXTINF:-1,La7 .it [IT] 1 
+acestream://48e0f30ccda711ff2894cbc52c6df89ffd05fe22
+
+#EXTINF:-1,La7d .it [IT] 1 
+acestream://f910f4c0374a08379c464c1db49028308557c0eb
+
+#EXTINF:-1,ReteVeneta [IT] 1 
+acestream://70ba597a6e0f4c6a5868331b11cea6e459ac9f22
+
+#EXTINF:-1,ReteVeneta [IT] 2 
+acestream://d2e92dfad22b8258187f622b834b9acedc1e443f
+
+#EXTINF:-1,ReteVeneta [IT] 3 
+acestream://8f3c2fcd4a6f8c78e3148f871fccaceced5a478e
+
+#EXTINF:-1,Videolina [IT] 1 
+acestream://277503b17daeb2bbea26bfe27dc9ffc33c0cb251
+
+#EXTINF:-1,RTC TeleCalabria [IT] 1 
+acestream://735d268177573df80bcadf0a4defebae9811db2f
+
+#EXTINF:-1,San Marino RTV Sport [IT] 1 
+acestream://753f25945102655dd6fcf856f32695005c912d69
+
+#EXTINF:-1,San Marino RTV HD [IT] 1 
+acestream://2016e4b3d77149097b6d842df07b7a364c823b9b
+
+#EXTINF:-1,teleMonteneve [IT] 1 
+acestream://af8ea343635dcf9eca32567d32faacc76023a847
+
+#EXTINF:-1,Italia 2 TV [IT] 1 
+acestream://3bf85216745a2a4577f2226628301fded74287bf
+
+#EXTINF:-1,Canale 2 [IT] 1 
+acestream://b65af5e182be8ac7bdf3e1c548e4b7f91e69bf77
+
+#EXTINF:-1,Canale 7 [IT] 1 
+acestream://8ebf8cded98f3e4c2e3ea83244e7ef3481091c3b
+
+#EXTINF:-1,Milano Pavia TV [IT] 1 
+acestream://0969a38e2b12d718f09e88e0925aed88f24a957b
+
+#EXTINF:-1,UniNettuno University TV [IT] 1 
+acestream://4e17bac6b2decc70fd7bd704ce7013072fefd1f0
 
 #EXTINF:-1,ESPN HD[US] 1 
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
