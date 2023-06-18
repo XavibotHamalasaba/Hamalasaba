@@ -43,7 +43,13 @@ acestream://149a38e333de920753f1388c43247283bdb05f5b
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 #EXTINF:-1,DAZN F1 1080p 1 
-acestream://e8d2ae01fab187655f7b47feaea4d6dad9211672
+acestream://0c561289a8ce18449e23cca3e925dcb663b7ccfa
+
+#EXTINF:-1,DAZN F1 1080p 2 
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+
+#EXTINF:-1,DAZN F1 1080p 3 
+acestream://5789ca155323664edd293b848606688edf803f4d
 
 #EXTINF:-1,DAZN F1 Multicam 1080p 1 
 acestream://dca8b79aadd3763786c255746b7712faa7db55e6
