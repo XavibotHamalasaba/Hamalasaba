@@ -9,35 +9,44 @@ acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1,DAZN LaLiga 1080p MultiAudio 3 
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 
+#EXTINF:-1,DAZN LaLiga 2 1 
+acestream://93d663e92a93845b11c9831885646fa39ba1ed66
+
+#EXTINF:-1,DAZN LaLiga 3 1 
+acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
+
 #EXTINF:-1,DAZN 1 1080p 1 
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
 
 #EXTINF:-1,DAZN 1 1080p 2 
-acestream://b5273b3a4bc2d56164c7fef0d191b21d52b1f2c0
-
-#EXTINF:-1,DAZN 1 1080p 3 
-acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 
 #EXTINF:-1,DAZN 2 1080p 1 
 acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
 
 #EXTINF:-1,DAZN 2 1080p 2 
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+
+#EXTINF:-1,DAZN 2 1080p 3 
 acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 
 #EXTINF:-1,DAZN 3 1080p 1 
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 
+#EXTINF:-1,DAZN 3 1080p 2 
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+
 #EXTINF:-1,DAZN 4 1080p 1 
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 
+#EXTINF:-1,DAZN 4 1080p 2 
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+
 #EXTINF:-1,DAZN F1 1080p 1 
-acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
+acestream://e8d2ae01fab187655f7b47feaea4d6dad9211672
 
-#EXTINF:-1,DAZN F1 1080p 2 
-acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
-
-#EXTINF:-1,DAZN F1 1080p 3 
-acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
+#EXTINF:-1,DAZN F1 Multicam 1080p 1 
+acestream://dca8b79aadd3763786c255746b7712faa7db55e6
 
 #EXTINF:-1,LaLiga TV Bar 1080p 1 
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
@@ -64,6 +73,12 @@ acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 
 #EXTINF:-1,M. LaLiga 2 1080p 2 
+acestream://4c4844564313e39a888f593511f299f5ba3cf929
+
+#EXTINF:-1,M. LaLiga 2 1080p 3 
+acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+
+#EXTINF:-1,M. LaLiga 2 1080p 4 
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 
 #EXTINF:-1,LaLiga SmartBank TV 1080p MultiAudio 1 
@@ -82,7 +97,7 @@ acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 acestream://1104426e14b649eb23fee16698768544285de478
 
 #EXTINF:-1,M.#Vamos 1080p 1 
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
 #EXTINF:-1,M.#Vamos 1080p 2 
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
@@ -97,25 +112,46 @@ acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 
 #EXTINF:-1,M. Deportes 1080p 2 
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+
+#EXTINF:-1,M. Deportes 1080p 3 
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 
 #EXTINF:-1,M. Deportes 2 1080p 1 
 acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
 
+#EXTINF:-1,M. Deportes 2 1080p 2 
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+
 #EXTINF:-1,M. Deportes 3 1080p 1 
 acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
+
+#EXTINF:-1,M. Deportes 3 1080p 2 
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 
 #EXTINF:-1,M. Deportes 4 1080p 1 
 acestream://08db089084ddbaceba7c239817407bf99708b9ad
 
+#EXTINF:-1,M. Deportes 4 1080p 2 
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+
 #EXTINF:-1,M. Deportes 5 1080p 1 
 acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
+
+#EXTINF:-1,M. Deportes 5 1080p 2 
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 
 #EXTINF:-1,M. Deportes 6 1080p 1 
 acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 
+#EXTINF:-1,M. Deportes 6 1080p 2 
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+
 #EXTINF:-1,M. Deportes 7 1080p 1 
 acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
+
+#EXTINF:-1,M. Deportes 7 1080p 2 
+acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
 #EXTINF:-1,M. Deportes 8 SD 1 
 acestream://b779e6056975e3682a804d47cbd5cc806217f64d
@@ -403,10 +439,7 @@ acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 acestream://243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
 
 #EXTINF:-1,Sky Sports F1[UK] 1 
-acestream://31ccc2ce2ca3e968bb37114fe6fae02073937fe8
-
-#EXTINF:-1,Sky Sports F1[UK] 2 
-acestream://1669d062899af5f176cdbbf549d447dd08bdb014
+acestream://468964086ebbd8b067c1a3ec4ebfc4e7a5bc9cc7
 
 #EXTINF:-1,Sky Sports Main Event [UK] 1 
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
@@ -561,11 +594,20 @@ acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1,Digi Sport 1[RM] 1 
 acestream://51cee9d0b29dbd9104e9a3971fd2569419eab159
 
+#EXTINF:-1,Digi Sport 1[RM] 2 
+acestream://83671b11f6dc071feb5769f6646cfc439c18989d
+
 #EXTINF:-1,Digi Sport 2[RM] 1 
 acestream://b7db2c0404f90f99b01a8875713c047cd07595f7
 
 #EXTINF:-1,Digi Sport 3[RM] 1 
 acestream://b9dc6fdeaca5a5f4275db80d68536e023ce4ea06
+
+#EXTINF:-1,Digi Sport 3[RM] 2 
+acestream://257be6b709b3c62e171f5ca9dbdf7428dfc97040
+
+#EXTINF:-1,Digi Sport 4[RM] 1 
+acestream://7090ab27689444b127b3cb8707e0334d409e0cc6
 
 #EXTINF:-1,Ziggo Sport Select[NL] 1 
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
