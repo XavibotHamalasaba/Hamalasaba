@@ -43,16 +43,13 @@ acestream://149a38e333de920753f1388c43247283bdb05f5b
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 #EXTINF:-1,DAZN F1 1080p 1 
-acestream://0c561289a8ce18449e23cca3e925dcb663b7ccfa
+acestream://de638285074634b8768036543c112108a5ae3f60
 
 #EXTINF:-1,DAZN F1 1080p 2 
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 
 #EXTINF:-1,DAZN F1 1080p 3 
 acestream://5789ca155323664edd293b848606688edf803f4d
-
-#EXTINF:-1,DAZN F1 Multicam 1080p 1 
-acestream://dca8b79aadd3763786c255746b7712faa7db55e6
 
 #EXTINF:-1,LaLiga TV Bar 1080p 1 
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
