@@ -324,6 +324,9 @@ acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 #EXTINF:-1,Eleven Sports 4 HD [PL] 1 
 acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
 
+#EXTINF:-1,Extreme Sports[PL] 1 
+acestream://73ff07648e367efebd94636047b07625f664a082
+
 #EXTINF:-1,TVP 1 Poland HD 1 
 acestream://d31d828052a432246e59e7d0d640bd55a64f1859
 
@@ -602,6 +605,9 @@ acestream://257be6b709b3c62e171f5ca9dbdf7428dfc97040
 
 #EXTINF:-1,Digi Sport 4[RM] 1 
 acestream://7090ab27689444b127b3cb8707e0334d409e0cc6
+
+#EXTINF:-1,ESPN [NL] 1 
+acestream://e2044fd44478794ebfe721deb060d149507f1348
 
 #EXTINF:-1,Ziggo Sport Select[NL] 1 
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
