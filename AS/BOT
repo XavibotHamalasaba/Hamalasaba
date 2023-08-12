@@ -10,6 +10,9 @@ acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 
 #EXTINF:-1,DAZN LaLiga 1080p 2 
+acestream://95b2238dec35cf00dfdf8fba18e9920bc2c56256
+
+#EXTINF:-1,DAZN LaLiga 1080p 3 
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 
 #EXTINF:-1,DAZN 1 1080p 1 
@@ -25,9 +28,12 @@ acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 
 #EXTINF:-1,M. LaLiga TV 1080p 2 
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+acestream://731428b18eb656121990261c1b072b13f7caef30
 
 #EXTINF:-1,M. LaLiga TV 1080p 3 
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+
+#EXTINF:-1,M. LaLiga TV 1080p 4 
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 
 #EXTINF:-1,LaLiga Hypermotion 1080p 1 
