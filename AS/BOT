@@ -45,6 +45,9 @@ acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1,LaLiga Hypermotion 1080p 2 
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 
+#EXTINF:-1,LaLiga Hypermotion 2 1080p 1 
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+
 #EXTINF:-1,M.#Vamos 1080p 1 
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
@@ -77,6 +80,9 @@ acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
 #EXTINF:-1,M.L. Campeones 1080p MultiAudio 2 
 acestream://16acb1d7c7760a7929d79b99f804bdf7a5d7e26b
+
+#EXTINF:-1,M.L. Campeones 2 1080p 1 
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 #EXTINF:-1,M. Golf 1080p 1 
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
