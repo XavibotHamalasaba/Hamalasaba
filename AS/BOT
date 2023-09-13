@@ -93,6 +93,9 @@ acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
 #EXTINF:-1,M. Deportes 1080p 1 
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 
+#EXTINF:-1,M. Deportes 1080p 2 
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+
 #EXTINF:-1,M. Deportes 2 1080p 1 
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 
@@ -107,6 +110,9 @@ acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 
 #EXTINF:-1,M. Deportes 6 1080p 1 
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+
+#EXTINF:-1,M. Deportes 7 1080p 1 
+acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
 #EXTINF:-1,M.L. Campeones 1080p MultiAudio 1 
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
