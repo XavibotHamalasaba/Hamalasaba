@@ -400,7 +400,7 @@ acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 acestream://243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
 
 #EXTINF:-1,Sky Sports F1[UK] 1 
-acestream://468964086ebbd8b067c1a3ec4ebfc4e7a5bc9cc7
+acestream://1f62b9cadf788311ed8b6888e414d771cbc975fe
 
 #EXTINF:-1,Sky Sports Main Event [UK] 1 
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
@@ -430,10 +430,10 @@ acestream://5f966c123759de46dff29c379266b7a403452033
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 
 #EXTINF:-1,F1 TV 1080p 1 
-acestream://77cb36936f3341264f010d39a1758f4672e308b0
+acestream://b211402ab4128e70364a4baaed0ee009e56db4da
 
 #EXTINF:-1,F1 TV 1080p 2 
-acestream://22c184381158087c2b522e1aacbc1bca7c67dc74
+acestream://3829f1b4590354c54db44d663710ab711eaff024
 
 #EXTINF:-1,Eleven TR Sport [IT] 1 
 acestream://154d111a97b7b18d1f64e9ae697c33c479d01e32
@@ -591,8 +591,8 @@ acestream://77800bb07c1d69135024ee2379c97472eb12dd45
 #EXTINF:-1,Ziggo Sport Golf[NL] 1 
 acestream://035e34b791335962ca817f42fd14300382af3797
 
-#EXTINF:-1,Diema Sport 2[BG] 1 
-acestream://15cc58b8ca2928ad68bc285df2a37f653eebd35a
+#EXTINF:-1,Diema Sport [BG] 1 
+acestream://8c6a3a49e43b6d05ac93b83fe4a41660caffae01
 
 #EXTINF:-1,beIN Sports HABER [TR] 1 
 acestream://47c1b3a68d03bd190fed521d144ad08fa0f195f3
