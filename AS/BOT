@@ -64,13 +64,19 @@ acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 
 #EXTINF:-1,M. LaLiga TV 1080p 2 
-acestream://731428b18eb656121990261c1b072b13f7caef30
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1,M. LaLiga TV 1080p 3 
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1,M. LaLiga TV 1080p 4 
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
+
+#EXTINF:-1,M. LaLiga 2 1080p 1 
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
+
+#EXTINF:-1,M. LaLiga 2 1080p 2 
+acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 
 #EXTINF:-1,LaLiga Hypermotion 1080p 1 
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
@@ -80,6 +86,9 @@ acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 
 #EXTINF:-1,LaLiga Hypermotion 2 1080p 1 
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+
+#EXTINF:-1,LaLiga Hypermotion 2 1080p 2 
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 
 #EXTINF:-1,M.#Vamos 1080p 1 
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
@@ -126,6 +135,15 @@ acestream://16acb1d7c7760a7929d79b99f804bdf7a5d7e26b
 #EXTINF:-1,M.L. Campeones 2 1080p 1 
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
+#EXTINF:-1,M.L. Campeones 2 1080p 2 
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+
+#EXTINF:-1,M.L. Campeones 3 1080p 1 
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+
+#EXTINF:-1,M.L. Campeones 3 1080p 2 
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+
 #EXTINF:-1,M. Golf 1080p 1 
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
@@ -140,6 +158,12 @@ acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 #EXTINF:-1,EuroSport 2 1080p 1 
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
+
+#EXTINF:-1,LA 1 1080p 1 
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+
+#EXTINF:-1,LA 1 1080p 2 
+acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 
 #EXTINF:-1,Real Madrid TV 1 
 acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11
