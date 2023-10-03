@@ -12,6 +12,12 @@ acestream://95b2238dec35cf00dfdf8fba18e9920bc2c56256
 #EXTINF:-1,DAZN LaLiga 1080p 4 
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 
+#EXTINF:-1,DAZN LaLiga 2 1 
+acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+
+#EXTINF:-1,DAZN LaLiga 2 2 
+acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
+
 #EXTINF:-1,DAZN 1 1080p 1 
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 
@@ -137,6 +143,27 @@ acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
 
 #EXTINF:-1,M.L. Campeones 7 SD 1 
 acestream://d84a90adb6998083403f610ab3fae340b5711b1e
+
+#EXTINF:-1,M.L. Campeones 7 SD 2 
+acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
+
+#EXTINF:-1,M.L. Campeones 8 SD 1 
+acestream://1a4b41c02e116ed19a505551a9caa79f54c027f7
+
+#EXTINF:-1,M.L. Campeones 9 SD 1 
+acestream://7244379f8f6382d40afec871fb8e4219a803840b
+
+#EXTINF:-1,M.L. Campeones 10 SD 1 
+acestream://d42e1b592b840ea34394fd3e1b1d3a4d0f399213
+
+#EXTINF:-1,M.L. Campeones 11 SD 1 
+acestream://e737c681a92a4328703761c6ed9d8a951655f3e4
+
+#EXTINF:-1,M.L. Campeones 12 SD 1 
+acestream://bb50397b3f49167eed95264005fae851baa7e3ee
+
+#EXTINF:-1,M.L. Campeones 13 SD 1 
+acestream://60296c246e3596f334903fefd48cfaa724a5053b
 
 #EXTINF:-1,M. Golf 1080p 1 
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
