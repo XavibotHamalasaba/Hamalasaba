@@ -42,6 +42,18 @@ acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1,DAZN 4 1080p 1 
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
+#EXTINF:-1,DAZN Liga Fem-1 1 
+acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
+
+#EXTINF:-1,DAZN Liga Fem-2 1 
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+
+#EXTINF:-1,DAZN Liga Fem-3 1 
+acestream://162942adc047d0f78eac056effbe5bbec54a5e51
+
+#EXTINF:-1,DAZN Liga Fem-4 1 
+acestream://e454681a152a86da504e63694f17f90d0586867d
+
 #EXTINF:-1,DAZN F1 1080p 1 
 acestream://5789ca155323664edd293b848606688edf803f4d
 
@@ -189,14 +201,11 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1,M. Golf 2 1 
 acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
 
-#EXTINF:-1,EuroSport 1 1080p 1 
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1,DAZN 1 Bar [DE] 1 
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
 
-#EXTINF:-1,EuroSport 2 1080p 1 
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-
-#EXTINF:-1,EuroSport Player 1 
-acestream://d871578fc069de543d1ed8b5e63092d870bad8ee
+#EXTINF:-1,DAZN 2 Bar [DE] 1 
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
 #EXTINF:-1,DAZN 1 [UK] 1 
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
