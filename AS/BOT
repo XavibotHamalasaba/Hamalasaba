@@ -210,5 +210,8 @@ acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1,EuroSport Player 1 
 acestream://d871578fc069de543d1ed8b5e63092d870bad8ee
 
+#EXTINF:-1,MundoToro HD 1 
+acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
+
 #EXTINF:-1,DAZN 1 [UK] 1 
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
